@@ -1,16 +1,20 @@
-## Hi there 👋
+# Replit Connections
+**Where users of replit can connect.**
 
-<!--
-**ReplitConnections/ReplitConnections** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
+**Users:**
+Users still exists. 
 
-Here are some ideas to get you started:
+1. https://replit.com/@MilesWK
+2. https://replit.com/@TechWithAnirudh
+3. https://replit.com/@AndrewDeng3
+4. https://replit.com/@Fairies0Feast
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects**
+COMING SOON
+
+---
+
+# Contributing
+I want people to contribute to this page. PLEASE share it so other people can contribute and add to the list. Please create pull requests to add more information!
