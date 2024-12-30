@@ -10,6 +10,9 @@ Users still exists.
 2. https://replit.com/@TechWithAnirudh
 3. https://replit.com/@AndrewDeng3
 4. https://replit.com/@Fairies0Feast
+5. https://replit.com/@Bookie0
+6. https://replit.com/@techwithanirudh
+
 
 More comming soon
 
